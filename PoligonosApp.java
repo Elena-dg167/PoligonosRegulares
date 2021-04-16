@@ -24,6 +24,8 @@ public class PoligonosApp {
         System.out.printf("El cuadrado de lado %d tiene de perimetro %d%n",c1.getLongitudLado(), perimetro);
         
         Poligono p1=new Poligono (Poligono.Color_Azul,4, 20);
+
+	Hexagono h1=new Hexagono(20);
                 
     }
 }
