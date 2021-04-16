@@ -1,4 +1,8 @@
 package Poligonos;
+/**
+ *
+ * @author Elena
+ */
 public class Hexagono extends Poligono {
     private int numLados;
     private int longitudLado;
